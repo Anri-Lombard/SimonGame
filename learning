@@ -1,0 +1,26 @@
+Bash:
+  Bourne again shell.
+
+
+Why use terminal?
+  Gives tons of control.
+
+  Use ls for list.
+  Use TAB for autocomplete (This is awesome!).
+  .. for 1 backspace
+  ~ for back to root
+  OPTION + click to get to certain spot in command.
+  CONTROL + A to go to start of command.
+  CONTROL + E to go to end of command.
+
+REPL:
+  Read Evaluate Print Loop (on computer itself, like node and python).
+
+npm:
+  reusable packages of code.
+  'npm init' creates json file to describe it.
+
+  process:
+    1.install package with npm.
+    2.require package.
+    3.run file.
